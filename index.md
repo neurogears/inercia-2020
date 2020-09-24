@@ -162,10 +162,99 @@ title: Bonsai @ Inercia 2020
 
 ---
 
+<!-- .element: data-transition="default none" -->
+##### Operator Categories
+
+![Operator categories](./assets/images/categories-simple.svg)
+<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
 ##### Operator Categories
 
 ![Operator categories](./assets/images/categories.svg)
 <!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
+
+---
+
+###### Skip
+
+![Skip](./assets/images/skip.svg)
+
+---
+
+###### Take
+
+![Take](./assets/images/take.svg)
+
+---
+
+###### SkipUntil
+
+![SkipUntil](./assets/images/skipuntil.svg)
+
+---
+
+###### TakeUntil
+
+![TakeUntil](./assets/images/takeuntil.svg)
+
+---
+
+###### CombineLatest
+
+![CombineLatest](./assets/images/combinelatest.svg)
+
+---
+
+<!-- .element: data-transition="default none" -->
+###### Transform
+
+![Transform](./assets/images/transform.svg)
+
+--
+
+<!-- .element: data-transition="default none" -->
+###### Select
+
+![Select](./assets/images/select.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany
+
+![SelectMany](./assets/images/selectmany.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany: Play audio on cue
+
+![SelectMany](./assets/images/selectmany-playsound-1.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany: Play audio on cue
+
+![SelectMany](./assets/images/selectmany-playsound-2.svg)
+
+---
+
+<!-- .element: data-transition="default none" -->
+###### TriggeredWindow
+
+![TriggeredWindow](./assets/images/triggeredwindow.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### TriggeredWindow: Record triggered video
+
+![SelectMany](./assets/images/triggeredwindow-recordclip.svg)
+
 
 </script>
 </section>
