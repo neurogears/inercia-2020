@@ -6,8 +6,7 @@ title: Bonsai @ Inercia 2020
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
 <script type="text/template">
 
-## Bonsai
-![Bonsai](./assets/images/bonsai.svg)
+![Bonsai](./assets/images/bonsai-lettering.svg)
 
 ### A visual language for scientific experimentation
 <table style="width: 100%;">
