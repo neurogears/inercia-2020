@@ -7,7 +7,7 @@ title: Bonsai @ Inercia 2020
 <script type="text/template">
 
 ## Bonsai
-![Bonsai](./assets/images/bonsai-circle.svg)
+![Bonsai](./assets/images/bonsai.svg)
 
 ### A visual language for scientific experimentation
 <table style="width: 100%;">
