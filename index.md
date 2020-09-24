@@ -101,7 +101,7 @@ title: Bonsai @ Inercia 2020
 <!-- .element: data-transition="default none" -->
 ![Workflow](./assets/images/framepicker-capture.svg)
 <!-- .element: style="display: inline-block; vertical-align: middle;" -->
-![Marble diagram](./assets/images/filecapture.svg)
+![Marble diagram](./assets/images/cameracapture-marble.svg)
 <!-- .element: style="display: inline-block; vertical-align: middle;" -->
 
 --
